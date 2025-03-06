@@ -1,5 +1,6 @@
 # RofLinux Operating System
-RofLinux - Is an operating system with it's own kernel, don't like just "Hello, World!" on the screen? Just wait, I will add more stuff soon, ooor you can participate in it's development :)
+RofLinux - Is an operating system with it's own kernel, don't like just "Hello, World!" on the screen? Just wait, I will add more stuff soon, ooor you can participate in it's development
+It also uses Grub bootloader so it actually pretty nice :)
 
 # Dependencies
 Depedencies are:
