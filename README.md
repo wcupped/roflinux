@@ -8,10 +8,13 @@ Depedencies are:
 - gcc
 - grub
 - qemu
+- mtools
 
 # Install dependencies
 Arch Linux:
-- sudo pacman -S qemu-full gcc nasm
+- sudo pacman -S qemu-full gcc nasm mtools
+Ubuntu (or ubuntu-based distros):
+- sudo apt install qemu-full gcc nasm mtools
 
 # Building OS
 - Go into a root directory of RofLinux (src)
